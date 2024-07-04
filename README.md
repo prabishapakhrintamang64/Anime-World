@@ -1,8 +1,8 @@
 # Anime-World
-Welcome to all the best dialogue of Anime character.
-number 1: WAKE UP TO REALITY.
-number 2: ARA ARA SAYONARA.
-number 3: DATTEBAYO
-number 4: GAMBARE GAMBARE
-number 5: NEZUKO CHANNNNNNN
-number 6: WAKU WAKU
+Welcome to all the best dialogue of Anime character.</br>
+number 1: WAKE UP TO REALITY.</br>
+number 2: ARA ARA SAYONARA.</br>
+number 3: DATTEBAYO</br>
+number 4: GAMBARE GAMBARE</br>
+number 5: NEZUKO CHANNNNNNN</br>
+number 6: WAKU WAKU</br>
