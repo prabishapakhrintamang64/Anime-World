@@ -6,3 +6,4 @@ number 3: DATTEBAYO</br>
 number 4: GAMBARE GAMBARE</br>
 number 5: NEZUKO CHANNNNNNN</br>
 number 6: WAKU WAKU</br>
+ suyokhu nareru riyou sitaa bogu wo surete susume.
